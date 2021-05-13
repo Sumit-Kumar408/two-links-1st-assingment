@@ -25,6 +25,4 @@
 	</main>
 </body>
 </html>
-html{
-	background-color: red;
-}
+
