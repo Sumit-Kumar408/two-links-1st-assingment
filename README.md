@@ -1,6 +1,6 @@
 # two-links-1st-assingment
  creating-two-links
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title><meta name="RESUME"
